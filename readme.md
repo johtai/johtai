@@ -10,7 +10,7 @@
 - 🟩⬜⬜⬜⬜ | **C#**: .NET Framework, Console App
 
 
-<a href="https://github.com/johtai/johtai"><img align="left" src="https://github-readme-stats.vercel.app/api?username=johtai&title_color=000000&show_icons=true&include_all_commits=true&theme=default"/></a>
+<a href="https://github.com/johtai/johtai"><img align="left" src="https://github-readme-stats.vercel.app/api?username=johtai&title_color=003000&show_icons=true&include_all_commits=true&theme=default"/></a>
 
 <!---| <a href="https://github.com/johtai/johtai"><img align="center" src="https://github-readme-stats.vercel.app/api?username=johtai&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="johtai's github stats" /></a> | <a href="https://github.com/johtai/johtai"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johtai&layout=compact&theme=default&hide_border=true" /></a> |
 | ------------- | ------------- |
