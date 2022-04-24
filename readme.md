@@ -1,10 +1,10 @@
-#### Обо мне
+#### About me
 
-- 👋 Привет, меня зовут **@johtai** 
-- 👀 Интересуюсь **программированием**, историей, музыкой, аниме
-- 👓 Учусь на специальности **фундаментальная информатика**
+- 👋 Hello, my name is **@johtai** 
+- 👀 I’m interested in **coding**, history, music, anime
+- 👓 Currently studying **computer science**
 
-#### Языки программирования:
+#### Languages:
 - 🟩🟩🟩🟩⬜ | **Python**: Django, Flask, PyGame, PyQT
-- 🟩🟩🟩🟩⬜ | **Pascal**: Classic, PascalABC. NET
+- 🟩🟩🟩🟩⬜ | **Pascal**: Classic, PascalABC .NET
 - 🟩⬜⬜⬜⬜ | **C#**: .NET Framework, Console App
