@@ -6,9 +6,9 @@
 
 ### Languages
 - 🟩🟩🟩🟩⬜ | **Python**: Django, Flask, PyGame, PyQT
-- 🟩🟩🟩🟩⬜ | **Pascal**: Classic, PascalABC .NET
-- 🟩🟩⬜⬜⬜ | **C#**: .NET Framework, Console App
-
+- 🟩🟩🟩🟩⬜ | **Pascal**: PascalABC .NET
+- 🟩🟩⬜⬜⬜ | **C#**: 
+- 🟩⬜⬜⬜⬜ | **C++**:
 
 <!---![johtai's GitHub stats](https://github-readme-stats.vercel.app/api?username=johtai&title_color=0000000show_icons=true&include_all_commits=true&theme=default&hide_border=true)
 
