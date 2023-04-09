@@ -5,8 +5,8 @@
 - 👓 Currently studying **computer science**
 
 ### Languages
-- 🟩🟩🟩🟩⬜ | **Python**: Django, Flask, PyGame, PyQT
-- 🟩🟩🟩🟩⬜ | **Pascal**: PascalABC .NET
+- 🟩🟩🟩🟩⬜ | **Python**
+- 🟩🟩🟩🟩⬜ | **Pascal**
 - 🟩🟩⬜⬜⬜ | **C#**
 - 🟩⬜⬜⬜⬜ | **C++**
 
