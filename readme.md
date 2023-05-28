@@ -3,13 +3,7 @@
 - 👋 Hello, my name is **@johtai** 
 - 👀 I’m interested in **coding**, history, music, anime
 - 👓 Currently studying **computer science**
-
-### Languages
-- 🟩🟩🟩🟩⬜ | **Python**
-- 🟩🟩🟩🟩⬜ | **Pascal**
-- 🟩🟩🟩🟩⬜ | **C#**
-- 🟩🟩🟩🟩⬜ | **C++**
-- 🟩🟩⬜⬜⬜ | **Ruby**
+- 🟩 Languages: Python, Pascal, C#, C++, Ruby
 
 <!---![johtai's GitHub stats](https://github-readme-stats.vercel.app/api?username=johtai&title_color=0000000show_icons=true&include_all_commits=true&theme=default&hide_border=true)
 
