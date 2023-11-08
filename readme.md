@@ -1,7 +1,8 @@
 ### About me
 
 - 👋 Hello, my name is **@johtai** 
-- 👀 I’m interested in **coding**, math, anime, ow2 and ynfg
+- 👀 I’m interested in **coding**, math and anime
+- 🎮 Play Overwatch 2, YNFG and Touhou Project game series
 - 👓 Currently studying **computer science**
 - 🟩 **Languages**: Python, Pascal, C#, C++, Ruby
 
