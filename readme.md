@@ -1,7 +1,7 @@
 ### About me
 
 - 👋 Hello, my name is **@johtai** 
-- 👀 I’m interested in **coding**, history, music, anime
+- 👀 I’m interested in **coding**, math and anime
 - 👓 Currently studying **computer science**
 - 🟩 **Languages**: Python, Pascal, C#, C++, Ruby
 
