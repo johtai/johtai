@@ -2,7 +2,7 @@
 
 - 👋 Hello, my name is **@johtai** 
 - 👀 I’m interested in **coding**, math and anime
-- 🎮 Play **Overwatch 2**, Paladins, YNFG and Touhou Project game series
+- 🎮 Play **Overwatch 2**, Paladins, TBOI, YNFG, Vintage Story and Touhou Project game series
 - 👓 Currently studying **computer science**
 - 🟩 **Languages**: Assembly (IJVM), Java, C/C++, C#, Pascal, Python, Ruby on Rails
 
