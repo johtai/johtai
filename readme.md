@@ -4,7 +4,7 @@
 - 👀 I’m interested in **coding**, math and anime
 - 🎮 Play **Overwatch 2**, TBOI, YNFG, Vintage Story and Touhou Project game series
 - 👓 Currently studying **computer science**
-- 🟩 **Languages**: Assembly (IJVM), SQL, C/C++, C#, Java, Kotlin, Pascal, Python, Ruby on Rails
+- 🟩 **Languages**: c (IJVM), C/C++, C#, Java/Kotlin, Pascal, Python, Ruby on Rails, PL/pgSQL (Postgres)
 
 <!---![johtai's GitHub stats](https://github-readme-stats.vercel.app/api?username=johtai&title_color=0000000show_icons=true&include_all_commits=true&theme=default&hide_border=true)
 
